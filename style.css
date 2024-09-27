@@ -1,0 +1,123 @@
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+}
+.rectangle {
+  height: 140px;
+  width: 100%;
+  background-color: black;
+}
+.logo1 {
+  width: 38px;
+  height: 35px;
+  position: absolute;
+  left: 13px;
+  top: 27px;
+}
+.student {
+  color: grey;
+  font-weight: 700;
+  /* font-size: ; */
+  position: absolute;
+  left: 800px;
+  top: 32px;
+  font-size: 40px;
+}
+.logo2 {
+  height: 45px;
+  width: 275px;
+  position: absolute;
+  left: 1600px;
+  color: white;
+  font-size: 40px;
+  top: 77px;
+  font-weight: 700;
+}
+.bscard {
+  width: 436px;
+  height: 349px;
+  position: absolute;
+  left: -25px;
+  top: 232px;
+}
+.personal {
+  width: 330px;
+  height: 85px;
+  font-weight: 700;
+  position: absolute;
+  left: 53px;
+  top: 549px;
+  font-size: 35px;
+}
+.arrow1 {
+  height: 50px;
+  width: 55px;
+  position: absolute;
+  left: 372px;
+  top: 590px;
+}
+.result1 {
+  height: 286px;
+  width: 293px;
+  position: absolute;
+  left: 757px;
+  top: 253px;
+}
+.result2 {
+  height: 70px;
+  width: 327px;
+  position: absolute;
+  left: 840px;
+  top: 549px;
+  font-size: 35px;
+  font-weight: 700;
+}
+.arrow2 {
+  height: 50px;
+  width: 55px;
+  position: absolute;
+  left: 976px;
+  top: 590px;
+}
+.attendance1 {
+  height: 330px;
+  width: 319px;
+  position: absolute;
+  left: 1400px;
+  top: 253px;
+}
+.attendance2 {
+  height: 70px;
+  width: 327px;
+  position: absolute;
+  left: 1444px;
+  top: 549px;
+  font-size: 35px;
+  font-weight: 700;
+}
+.arrow3 {
+  height: 50px;
+  width: 55px;
+  position: absolute;
+  left: 1680px;
+  top: 590px;
+}
+.doubt {
+  height: 69px;
+  width: 145px;
+  position: absolute;
+  left: 1697px;
+  top: 145px;
+  background-color: #d9d9d9;
+  border-radius: 50%;
+}
+.doubt1 {
+  height: 41px;
+  width: 109px;
+  position: absolute;
+  left: 1725px;
+  top: 159px;
+  font-size: 35px;
+  font-weight: 700;
+  color: rgb(86, 78, 78);
+}
